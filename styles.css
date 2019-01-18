@@ -1,0 +1,97 @@
+h1{
+    color:red;
+    display:flex;
+    border:blue dotted 5px;
+    padding:30px;
+    background:yellow;
+    margin:10px;
+    justify-content:space-around;
+    font-size:40px;
+    text-decoration:underline;
+    color:blue;
+}
+
+img{
+   width:500px;
+   border: #c4ecef double 10px;
+   margin:100px;
+}
+
+body{
+    align-items:center;
+    background-color:#f4c3e6;
+}
+
+#arrow{
+    display:none;
+}
+
+#clearc{
+    display:none;
+}
+
+#island{
+    display:none;
+}
+
+#arrow2{
+    display:none;
+}
+#forest{
+    display:none;
+}
+
+#bridge{
+    display:none;
+}
+
+#start{
+    color:blue;
+    background:yellow;
+    border:dotted red;
+    height:80px;
+    width:300px;
+    font-size:30px;
+    transition: 3s;
+ }
+#treasure{
+    display:none;
+}
+
+#click{
+    display:none;
+}
+
+#listen{
+    display:none;
+}
+#winner{
+    display:none;
+}
+
+#clue{
+    display:none;
+}
+#buttone{
+    display:none;
+    color:red;
+}
+#hbut{
+    display:none;
+}
+p{
+    color:white;
+    font-weight:bold;
+    font-size:80px;
+    text-align:center;
+    text-decoration:underline;
+}
+#look{
+    display:none;
+    color:white;
+    font-weight:bold;
+    font-size:80px;
+    text-align:center;
+    text-decoration:underline;
+}
+    
